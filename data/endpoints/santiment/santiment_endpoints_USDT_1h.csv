@@ -1,0 +1,13 @@
+,0
+0,"average_transfer_5m"
+1,"deposit_transactions_5m"
+2,"exchange_balance"
+3,"exchange_inflow"
+4,"exchange_outflow"
+5,"median_transfer_5m"
+6,"price_usd"
+7,"transaction_volume"
+8,"volume_usd"
+9,"whale_transaction_count_100k_usd_to_inf"
+10,"whale_transaction_count_1m_usd_to_inf"
+11,"withdrawal_transactions_5m"

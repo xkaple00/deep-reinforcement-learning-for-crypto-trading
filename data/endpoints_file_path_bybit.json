@@ -1,0 +1,5 @@
+{
+    "BTC": {"1h": "./data/endpoints/bybit/BTC_1h.csv", "1d": "./data/endpoints/bybit/BTC_1d.csv"},
+    "ETH": {"1h": "./data/endpoints/bybit/ETH_1h.csv", "1d": "./data/endpoints/bybit/ETH_1d.csv"},
+    "FTM": {"1h": "./data/endpoints/bybit/FTM_1h.csv", "1d": "./data/endpoints/bybit/FTM_1d.csv"}
+}

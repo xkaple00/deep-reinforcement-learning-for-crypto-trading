@@ -1,0 +1,4 @@
+{
+    "BTC": {"1h": "./data/endpoints/glassnode/glassnode_endpoints_BTC_1h.csv", "24h": "./data/endpoints/glassnode/glassnode_endpoints_BTC_24h.csv"},
+    "ETH": {"1h": "./data/endpoints/glassnode/glassnode_endpoints_ETH_1h.csv", "24h": "./data/endpoints/glassnode/glassnode_endpoints_ETH_24h.csv"}
+}

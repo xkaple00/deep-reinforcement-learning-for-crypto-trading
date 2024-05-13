@@ -1,0 +1,7 @@
+{
+    "USDT": {"1h": "./data/endpoints/santiment/santiment_endpoints_USDT_1h.csv", "24h": "./data/endpoints/santiment/santiment_endpoints_USDT_24h.csv"},
+    "BTC": {"1h": "./data/endpoints/santiment/santiment_endpoints_BTC_1h.csv", "24h": "./data/endpoints/santiment/santiment_endpoints_BTC_24h.csv"},
+    "ETH": {"1h": "./data/endpoints/santiment/santiment_endpoints_ETH_1h.csv", "24h": "./data/endpoints/santiment/santiment_endpoints_ETH_24h.csv"},
+    "FTM": {"1h": "./data/endpoints/santiment/santiment_endpoints_FTM_1h.csv", "24h": "./data/endpoints/santiment/santiment_endpoints_FTM_24h.csv"},
+    "BAT": {"1h": "./data/endpoints/santiment/santiment_endpoints_BAT_1h.csv", "24h": "./data/endpoints/santiment/santiment_endpoints_BAT_24h.csv"}
+}

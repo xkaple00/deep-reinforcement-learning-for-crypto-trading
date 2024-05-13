@@ -1,0 +1,6 @@
+{
+    "BTC": {"1h": "./data/endpoints/binance/BTC_1h.csv", "1d": "./data/endpoints/binance/BTC_1d.csv"},
+    "ETH": {"1h": "./data/endpoints/binance/ETH_1h.csv", "1d": "./data/endpoints/binance/ETH_1d.csv"},
+    "BAT": {"1h": "./data/endpoints/binance/BAT_1h.csv", "1d": "./data/endpoints/binance/BAT_1d.csv"},
+    "FTM": {"1h": "./data/endpoints/binance/FTM_1h.csv", "1d": "./data/endpoints/binance/FTM_1d.csv"}
+}
