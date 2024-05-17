@@ -1,6 +1,5 @@
 # Deep Reinforcement Learning for Crypto Trading
-https://github.com/xkaple00/reinforcement-learning-for-crypto-trading/assets/40427300/78ae50a6-8764-4fdc-8dd0-2d0385d07dc5 <br />
-
+[![Reinforcement Learning for Crypto Trading](https://github.com/xkaple00/deep-reinforcement-learning-for-crypto-trading/assets/40427300/56adbcde-e049-424c-b2df-9719405de023)](https://www.youtube.com/watch?v=elY9TdrdpgI)
 
 This repository accompanies my blog series: https://medium.com/@sane.ai/deep-reinforcement-learning-for-crypto-trading-72c06bb9b04c <br />
 
@@ -14,11 +13,11 @@ conda env create -f environment.yml <br />
 Add your API keys to keys.py <br />
 
 ## Part 1: Data preparation
-Jupyter notebook to create dataset: <br />
+Jupyter: <br />
 dataset.ipynb <br />
 
 ## Part 2: Strategy:
-Training environment: <br />
+Environment: <br />
 ./envs/training_env.py <br />
 
 ## Part 3: Training
@@ -29,5 +28,5 @@ Tensorboard logs example: <br />
 https://drive.google.com/file/d/12IyS3PKTx0KQr-J28vYOYJon5qpIRhsB/view <br />
 
 ## Part 4: Backtesting
-Jupyter notebook to backtest on validation: <br />
+Jupyter notebook: <br />
 backtest.ipynb <br />
