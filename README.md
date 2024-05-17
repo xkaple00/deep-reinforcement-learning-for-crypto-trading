@@ -1,5 +1,8 @@
 # Deep Reinforcement Learning for Crypto Trading
-https://github.com/xkaple00/reinforcement-learning-for-crypto-trading/assets/40427300/78ae50a6-8764-4fdc-8dd0-2d0385d07dc5
+[![DEMO LIVE TRADING](https://img.youtube.com/vi/elY9TdrdpgI/0.jpg)](https://www.youtube.com/watch?v=elY9TdrdpgI) <br />
+
+This repository accompanies my blog series: https://medium.com/@sane.ai/deep-reinforcement-learning-for-crypto-trading-72c06bb9b04c <br />
+
 
 ## Part 0: Introduction
 Set up: <br />
