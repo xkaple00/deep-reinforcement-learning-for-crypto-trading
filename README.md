@@ -1,5 +1,6 @@
 # Deep Reinforcement Learning for Crypto Trading
-[![DEMO LIVE TRADING](https://img.youtube.com/vi/elY9TdrdpgI/0.jpg)](https://www.youtube.com/watch?v=elY9TdrdpgI) <br />
+https://github.com/xkaple00/reinforcement-learning-for-crypto-trading/assets/40427300/78ae50a6-8764-4fdc-8dd0-2d0385d07dc5 <br />
+
 
 This repository accompanies my blog series: https://medium.com/@sane.ai/deep-reinforcement-learning-for-crypto-trading-72c06bb9b04c <br />
 
@@ -28,5 +29,5 @@ Tensorboard logs example: <br />
 https://drive.google.com/file/d/12IyS3PKTx0KQr-J28vYOYJon5qpIRhsB/view <br />
 
 ## Part 4: Backtesting
-Jupyter notebook to backtest on validation dataset: <br />
+Jupyter notebook to backtest on validation: <br />
 backtest.ipynb <br />
